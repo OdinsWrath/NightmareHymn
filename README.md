@@ -12,7 +12,7 @@ and viewing of the C++ source files. To install these required components use th
        running and editing this project)  
     4. Run the downloaded installer and allow the installation to complete  
     
-  ## VISUAL STUDIO 17:  
+  ## VISUAL STUDIO 17+:  
     1. Navigate to https://visualstudio.microsoft.com/    
     2. Click on Download Visual Studio  
     3. Select any of the; community, professional, or enterprise options  
